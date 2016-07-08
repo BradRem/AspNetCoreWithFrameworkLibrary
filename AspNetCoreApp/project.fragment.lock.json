@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "exports": {
+    "FrameworkLibrary/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.6",
+      "compile": {
+        "bin/Debug/FrameworkLibrary.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/FrameworkLibrary.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/FrameworkLibrary.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    }
+  }
+}
